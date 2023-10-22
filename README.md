@@ -1,1 +1,1 @@
-# dados-dio
+# Não consegui realizar o projeto por completo ainda ao inserir (criar) os dados informados pelo github, impedindo a transformação de dados. O banco de dados atualmente esta no link bigone.mysql.database.azure.com
